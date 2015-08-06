@@ -7,3 +7,7 @@
 		</li>
 	<% end %>
 </ul>
+
+<%= link_to "Create a New Article", new_article_path, class: "new_article" %>
+<p></p>
+<%= link_to "To Tags List", tags_path %>
