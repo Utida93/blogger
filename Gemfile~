@@ -43,7 +43,5 @@ group :development, :test do
   gem 'spring'
 
   gem "paperclip"
-
-  gem "sass"
 end
 

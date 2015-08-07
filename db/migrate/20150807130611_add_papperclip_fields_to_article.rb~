@@ -1,0 +1,4 @@
+class AddPapperclipFieldsToArticle < ActiveRecord::Migration
+  def change
+  end
+end
