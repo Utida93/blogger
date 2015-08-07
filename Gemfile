@@ -45,5 +45,7 @@ group :development, :test do
   gem "paperclip"
 
   gem "sass"
+
+  gem "sorcery"
 end
 
